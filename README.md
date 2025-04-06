@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Skilled e-learning landing page
 
 ![Design preview for the Skilled e-learning landing page coding challenge](./preview.jpg)
@@ -86,3 +87,7 @@ The more specific you are with your questions the more likely it is that another
 We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
 
 **Have fun building!** 🚀
+=======
+# CSS-Advanced
+skilled-elearning-landing-page
+>>>>>>> 73c93a2dcd230b87ddb70b9545b45acb0c4cadfb
